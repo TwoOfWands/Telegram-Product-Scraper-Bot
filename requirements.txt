@@ -1,0 +1,4 @@
+pyTelegramBotAPI
+aiohttp
+beautifulsoup4
+xlsxwriter
